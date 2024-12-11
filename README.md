@@ -2,7 +2,7 @@
 
 Simple Web Server (SWS) es una herramienta ligera y fácil de usar que te permite convertir cualquier carpeta en un servidor web local en cuestión de segundos. Diseñada para desarrolladores, estudiantes o cualquier persona que necesite probar páginas web de forma rápida y sin complicaciones.
 
-**🚀 Funcionalidades**b
+**🚀 Funcionalidades**
 Ejecuta un servidor web local desde cualquier carpeta seleccionada.
 Compatible con archivos HTML, CSS, JavaScript y otros recursos estáticos.
 Interfaz gráfica para seleccionar carpetas sin necesidad de comandos.
