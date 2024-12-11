@@ -17,6 +17,7 @@ No se necesita instalar Python ni otras dependencias.
 **📂 Cómo usar**
 
 Descarga el ejecutable (.exe):
+Descarga: v1.0
 Ejecuta el programa:
 Haz doble clic en el archivo .exe.
 Selecciona la carpeta a servir:
