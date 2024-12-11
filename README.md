@@ -23,7 +23,7 @@ No se necesita instalar Python ni otras dependencias.
 
 Descarga el ejecutable (.exe):
 
-Descarga: v1.0
+**Versión actual:** [v1.0](https://github.com/sikepg/SWSMARTI/releases/tag/v1.0)
 
 Ejecuta el programa:
 
